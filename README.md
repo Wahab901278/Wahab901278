@@ -24,4 +24,8 @@
 <a href="https://holopin.io/@wahab901278">
   <img src="https://holopin.me/wahab901278" alt="Holopin Badge" style="max-height: 50px !important;">
 </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab901278&show_icons=true&locale=en&layout=compact" alt="wahab901278" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahab901278&show_icons=true&locale=en" alt="wahab901278" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahab901278&" alt="wahab901278" /></p>
