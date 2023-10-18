@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wahab901278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Wahab901278" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/Wahab901278](https://www.linkedin.com/in/abdul-wahab-10117a24a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=Wahab901278" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-wahab-10117a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=Wahab901278" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22165436/Wahab901278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Wahab901278" height="30" width="40" /></a>
 <a href="https://kaggle.com/wahab0789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Abdul Wahab" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100049843965340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul wahab" height="30" width="40" /></a>
