@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
-<h3 align="center">A passionate data analyst and data science enthusiast</h3>
+<h3 align="center">Tech Enthusiast and a Perpetual learner</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3c919d3b58bdef3f7f42b86c3c9e5479">
 
 <p align="left"> <a href="https://twitter.com/wahab901278" target="blank"><img src="https://img.shields.io/twitter/follow/wahab901278?logo=twitter&style=for-the-badge" alt="wahab901278" /></a> </p>
